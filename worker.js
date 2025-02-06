@@ -41,5 +41,5 @@ addEventListener('fetch', event => {
     }
   
     // 其他请求返回 404
-    return new Response('Not Found', { status: 404 });
+    return new Response('404 Not Found', { status: 404 });
   }

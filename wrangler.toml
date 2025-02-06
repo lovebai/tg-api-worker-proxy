@@ -1,0 +1,2 @@
+name = "tg-api"
+main = "worker.js"
